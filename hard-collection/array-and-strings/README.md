@@ -9,4 +9,6 @@
 - Longest Consecutive Sequence
 - Find the Duplicate Number
 - Longest Substring with At Most K Distinct Characters
+- Basic Calculator II
+- Sliding Window Maximum
 - Minimum Window Substring
